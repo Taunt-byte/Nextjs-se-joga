@@ -2,7 +2,7 @@
 
 module.exports = {
     images: {
-      domains: ['img.freepik.com'], // Adicione o domínio que você deseja permitir aqui
+      domains: ['img.freepik.com','images.unsplash.com'] // Adicione o domínio que você deseja permitir aqui
     },
   };
   
